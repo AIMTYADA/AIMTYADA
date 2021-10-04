@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...Python, Jupyter ,Streamlit
 
 ## Connect with me:
-[<img align="left" alt="Yada Boonserm | https://www.linkedin.com/in/yada-boonserm/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >]
+[<img align="left" alt="Yada Boonserm| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/yada-boonserm/]
 
 
 <!--
