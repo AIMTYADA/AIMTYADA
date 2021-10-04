@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there,I'm Aim 👋
+
+## I'm a Programmer,IT-Programmer
+
+- 🔭 I build powerful end-to-end business solutions by connecting Power Apps across the entrire Microsoft Power Platform and to Microsoft 365, Dynamics365, Power BI, Azure, and other apps
+- 🌱 I’m currently learning ...Python,Jupyter,Streamlit
+
+## Connect with me:
+[<img align="left" alt="Yada Boonserm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <!--
 **AIMTYADA/AIMTYADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
